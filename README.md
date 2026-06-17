@@ -1,2 +1,0 @@
-# kangdjamal.github.io
-web
